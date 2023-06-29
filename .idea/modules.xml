@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../goweb/.idea/go_demo.iml" filepath="$PROJECT_DIR$/../goweb/.idea/go_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../goweb/.idea/goweb.iml" filepath="$PROJECT_DIR$/../goweb/.idea/goweb.iml" />
     </modules>
   </component>
 </project>
